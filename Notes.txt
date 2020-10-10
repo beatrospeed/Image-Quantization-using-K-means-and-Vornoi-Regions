@@ -1,0 +1,1 @@
+Please set the value of K in the trackbar and then click on the image to segment the image. This was done such that the algorithm doesnt start immediatly after setting K as it's difficult to move the tracker precisely. 
